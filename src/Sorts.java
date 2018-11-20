@@ -29,36 +29,6 @@ public class Sorts
         System.out.println();
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public static void ascendingSort(String[] arr)
     {
         for (int i = 0; i < arr.length-1; i++)
